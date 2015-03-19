@@ -12,6 +12,8 @@ This was created at an intel edison hackathon over the course of 48 hours. Pizza
 
 This is currently a work in progress and contributions are strongly encouraged. 
 
+![Pizza Time Clock](https://dl.dropboxusercontent.com/u/1086285/artefact/pizza-time-2.jpg)
+![Pizza Time Clock](https://dl.dropboxusercontent.com/u/1086285/artefact/pizza-time-1.jpg)
 
 Hardware
 ---------------
