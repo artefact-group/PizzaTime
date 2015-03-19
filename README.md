@@ -13,14 +13,13 @@ This was created at an intel edison hackathon over the course of 48 hours. Pizza
 This is currently a work in progress and contributions are strongly encouraged. 
 
 ![Pizza Time Clock](https://dl.dropboxusercontent.com/u/1086285/artefact/pizza-time-2.jpg)
-![Pizza Time Clock](https://dl.dropboxusercontent.com/u/1086285/artefact/pizza-time-1.jpg)
 
 Hardware
 ---------------
 Documentation on wiring is in the works. 
  
   - For development purposes Pizza Time uses the Intel Edison with the Arduino breakout board which can be found [on Sparkfun](https://www.sparkfun.com/products/13097). 
-  - The rotary encoder that is used for the dial is [this 12-step rotary encoder](https://www.sparkfun.com/products/9117)
+  - The rotary encoder that is used for the dial is [this Adafruit rotary encoder](http://www.adafruit.com/products/377)
   - For the led matrix display we used four (4x) [16 x 8 Led Matrix + Backback](http://www.adafruit.com/products/2044) 
   - The case is custom made with a ShopBot and we are planning on uploading the CAD designs for it shortly. 
 
